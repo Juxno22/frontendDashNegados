@@ -504,7 +504,7 @@ import {
   Filler
 } from "chart.js";
 import { Bar, Doughnut, Line } from "vue-chartjs";
-import KpiCard from "../components/KpiCard.vue"
+import KpiCard from "../components/KpiCard.vue";
 import SurtidorDetallePanel from "../components/SurtidorDetallePanel.vue";
 import ProductoDetallePanel from "../components/ProductoDetallePanel.vue";
 import ImportarReporteNegados from "../components/ImportarReporteNegados.vue";
